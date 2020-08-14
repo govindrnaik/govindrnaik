@@ -26,11 +26,6 @@
 
 <br />
 <br />
- <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="govindrnaik's Github Stats" src="https://github-readme-stats.govindrnaik.vercel.app/api?username=govindrnaik&show_icons=true&hide_border=true" />
-
-
 [website]: https://sites.google.com/viva-technology.org/govindnaik/home
 [twitter]: https://twitter.com/NaikGovindjr
 [youtube]: https://www.youtube.com/channel/UCilYVcxFZAYJ50xfQ8uVfxw
