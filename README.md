@@ -1,6 +1,6 @@
 ### Hi there, I'm [Govind Ratnakar Naik][website] 👋
 
-## I'm a Son, Student, and Engineer!
+## I'm a Son, Student, and EXTC Engineer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other students interested in learning new
