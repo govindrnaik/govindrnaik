@@ -1,4 +1,4 @@
-### Hi there, I'm [Govind Ratnakar Naik][website] 👋
+### Hi there, I'm [Govind Ratnakar Naik] [website] 👋
 
 ## I'm a Son, Student, and EXTC Engineer!
 
