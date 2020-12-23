@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to solve puzzles and play piano
 
 <img align="left" alt="gif"  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
-<img align="left" alt="gif"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgLCNa3WhhbDyIKudc_wZCi9_P-pKsSO9yfQ&usqp=CAU" />
+
 
 
 ### Connect with me:
