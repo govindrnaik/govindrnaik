@@ -1,5 +1,5 @@
 ### Hi there, I'm [Govind Ratnakar Naik][website] 👋
-
+[![HitCount](http://hits.dwyl.com/govindrnaik/govindrnaik.svg)](http://hits.dwyl.com/govindrnaik/govindrnaik)
 ## I'm a Son, Student, and EXTC Engineer!
 
 - 🌱 I’m currently learning everything 🤣
