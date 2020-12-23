@@ -1,4 +1,4 @@
-### Hi there, I'm [Govind Ratnakar Naik][website] 👋
+### Hi there, I'm [Govind Ratnakar Naik][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![HitCount](http://hits.dwyl.com/govindrnaik/govindrnaik.svg)](http://hits.dwyl.com/govindrnaik/govindrnaik)
 ## I'm a Son, Student, and EXTC Engineer!
 
