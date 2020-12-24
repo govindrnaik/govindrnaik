@@ -1,6 +1,6 @@
 ### Hi there, I'm [Govind Ratnakar Naik][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<h3 align="center">A passionate frontend developer from India</h3>  
+<h3 align="left">A passionate frontend developer from India</h3>  
 
 <p align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/naikgovindjr?logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
 
@@ -24,6 +24,12 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<p align="left">
+<a href="https://twitter.com/naikgovindjr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naikgovindjr" height="30" width="40" /></a>
+<a href="https://fb.com/govind-ratnakar-naik-jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="govind-ratnakar-naik-jr" height="30" width="40" /></a>
+<a href="https://medium.com/@govindrnaik.trk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@govindrnaik.trk" height="30" width="40" /></a>
+</p>
 
 <br />
 
@@ -62,14 +68,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naikgovindjr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naikgovindjr" height="30" width="40" /></a>
-<a href="https://fb.com/govind-ratnakar-naik-jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="govind-ratnakar-naik-jr" height="30" width="40" /></a>
-<a href="https://medium.com/@govindrnaik.trk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@govindrnaik.trk" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /></p>
 
