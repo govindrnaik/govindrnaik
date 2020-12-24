@@ -40,7 +40,7 @@
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="30" height="30"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
-  <img align="left" alt="GitHub" width="30" src="https://github.com/govindrnaik/govindrnaik/blob/master/github%20logo.png" />
+<a href="https://lab.github.com/githubtraining/introduction-to-github" target="_blank"> <img src="https://github.com/govindrnaik/govindrnaik/blob/master/github%20logo.png" alt="gcp" width="30" height="30"/> </a> 
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
   <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> </a> 
