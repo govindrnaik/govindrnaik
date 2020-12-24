@@ -27,9 +27,6 @@
 [<img align="left" alt="codeSTACKr | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
-<a href="https://fb.com/govind-ratnakar-naik-jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="govind-ratnakar-naik-jr"  width="22px" /></a>
-<a href="https://medium.com/@govindrnaik.trk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@govindrnaik.trk" width="22px" /></a>
-
 
 <br />
 
