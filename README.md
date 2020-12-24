@@ -34,7 +34,7 @@
 
 <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="GitHub" width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="30" src="https://www.google.com/search?q=github+icon+gray&newwindow=1&safe=active&sxsrf=ALeKk03rJcSXC9nKNGu9R1Y5kxFK4IWqsQ:1608818409185&tbm=isch&source=iu&ictx=1&fir=L4753ZUiGgFYcM%252C_omfh-2etlE7wM%252C_&vet=1&usg=AI4_-kRXfJbSpq2yPevHz6KZOYXJxh5wpA&sa=X&ved=2ahUKEwj-6qXO4-btAhXVwjgGHfeqArwQ9QF6BAgNEAE#imgrc=L4753ZUiGgFYcM" />
 <img align="left" alt="Raspberry Pi" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> 
