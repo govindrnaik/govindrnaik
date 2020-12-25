@@ -77,4 +77,4 @@
 <p align="left" ></p>
 <p  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=govindrnaik&theme=onedark&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA" alt="govindrnaik" /></a> </p>
 
-<p align="center" ><img width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik" alt="govindrnaik" /></p>
+<p align="center" ><img width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=highcontrast" alt="govindrnaik" /></p>
