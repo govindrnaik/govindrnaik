@@ -8,7 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindrnaik&label=Profile%20views&color=0e75b6&style=flat" alt="govindrnaik" /> </p>
 
-
+  <a href="https://www.youtube.com/c/channel/UCilYVcxFZAYJ50xfQ8uVfxw?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
+  <a href="https://www.youtube.com/c/channel/UCilYVcxFZAYJ50xfQ8uVfxw"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
+  
 ## I'm a Son, Student, and EXTC Engineer!
 
 - 🌱 I’m currently learning everything <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px">
