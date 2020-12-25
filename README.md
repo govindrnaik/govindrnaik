@@ -6,7 +6,7 @@
 
 <p  align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindrnaik&label=Profile%20views&color=000000&style=for-the-badge" alt="govindrnaik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindrnaik&label=Profile%20views&color=800000&style=for-the-badge" alt="govindrnaik" /> </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naikgovindr)](https://www.linkedin.com/in/naikgovindr)
   
