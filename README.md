@@ -11,7 +11,7 @@
 
 ## I'm a Son, Student, and EXTC Engineer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px">
 - 👯 I’m looking to collaborate with other students interested in learning new
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve puzzles and play piano
