@@ -28,6 +28,8 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt=" facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt=" medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt=" telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt=" whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
 
@@ -52,7 +54,6 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
 
 
-https://api.linkedin.com/v1/people/~/connections:naikgovindr
 
 [website]: https://sites.google.com/viva-technology.org/govindnaik/home
 [twitter]: https://twitter.com/NaikGovindjr
@@ -61,7 +62,8 @@ https://api.linkedin.com/v1/people/~/connections:naikgovindr
 [linkedin]: https://www.linkedin.com/in/naikgovindr
 [facebook]: https://www.facebook.com/profile.php?id=100008485660272
 [medium]: https://medium.com/@govindrnaik.trk
-
+[telegram]: https://t.me/tughlak
+[whatsapp]: https://api.whatsapp.com/send/?phone=9757211888&text=Hello%20found%20you%20from%20Github&app_absent=0
 
 
 <!-- ### Blogs posts -->
