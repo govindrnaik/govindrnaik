@@ -19,7 +19,8 @@
 - ⚡ Fun fact: I love to solve puzzles and play piano
 
 
-***
+ <br/>
+
 
 ### Connect with me:
 
@@ -34,7 +35,7 @@
 [<img align="left" alt=" whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 <br />
-***
+
 
 ### Languages and Tools:
 
@@ -72,8 +73,8 @@
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-***
+ <br/>
+  
 ## 📈 Github Stats
 
 <details>
