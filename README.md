@@ -6,10 +6,9 @@
 
 <p  align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindrnaik&label=Profile%20views&color=0e75b6&style=flat" alt="govindrnaik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=govindrnaik&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="govindrnaik" /> </p>
 
-  <a href="https://www.youtube.com/c/channel/UCilYVcxFZAYJ50xfQ8uVfxw?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/c/channel/UCilYVcxFZAYJ50xfQ8uVfxw"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naikgovindr)](https://www.linkedin.com/in/naikgovindr)
   
 ## I'm a Son, Student, and EXTC Engineer!
 
