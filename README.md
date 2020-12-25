@@ -52,7 +52,7 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
 
 
-
+https://api.linkedin.com/v1/people/~/connections:naikgovindr
 
 [website]: https://sites.google.com/viva-technology.org/govindnaik/home
 [twitter]: https://twitter.com/NaikGovindjr
