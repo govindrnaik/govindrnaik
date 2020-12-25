@@ -16,7 +16,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve puzzles and play piano
 
-bgcolor=”#800000"
+
 
 
 ### Connect with me:
@@ -73,4 +73,4 @@ bgcolor=”#800000"
 
 <p style="background-color:black;" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=govindrnaik" alt="govindrnaik" /></a> </p>
 
-<p align="center" ><img width ="550" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
+<p bgcolor=”#800000" align="center" ><img width ="550" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
