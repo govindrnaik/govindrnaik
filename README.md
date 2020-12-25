@@ -6,7 +6,7 @@
 <p  align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
 <img alt="GitHub followers" src="https://komarev.com/ghpvc/?username=govindrnaik&color=c0c0c0&label=VISITORS&logo=GitHub&style=flat-square">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naikgovindr)](https://www.linkedin.com/in/naikgovindr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=CONNECT&logoColor=white&link=https://www.linkedin.com/in/naikgovindr)](https://www.linkedin.com/in/naikgovindr)
   
 ## I'm a Son, Student, and EXTC Engineer!
 
