@@ -71,6 +71,6 @@
 <p align="center" ><img width ="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /><img width ="500" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /></p>
 <p align="left" >&nbsp;</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindrnaik" alt="govindrnaik" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="background-color:black;" src="https://github-profile-trophy.vercel.app/?username=govindrnaik" alt="govindrnaik" /></a> </p>
 
 <p align="center" ><img width ="550" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
