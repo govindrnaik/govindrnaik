@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindrnaik&label=Profile%20views&color=0e75b6&style=flat" alt="govindrnaik" /> </p>
 
+<img  align="right" alt="gif"  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
+
 ## I'm a Son, Student, and EXTC Engineer!
 
 - 🌱 I’m currently learning everything 🤣
@@ -13,7 +15,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve puzzles and play piano
 
-<img  align="right" alt="gif"  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
 
 
 
