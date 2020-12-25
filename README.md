@@ -68,9 +68,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /></p>
+<p align="right" ><img src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /></p>
 
-<p align="right" ></p>
 
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
