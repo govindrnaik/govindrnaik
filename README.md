@@ -66,11 +66,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /></p>
-<p align="left" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /></p>
+<p align="left" ><img width ="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /></p>
+<p align="left" >&nbsp;<img width ="500" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /></p>
 
 
-<p align="center" ><img width ="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
+<p align="center" ><img width ="700" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindrnaik" alt="govindrnaik" /></a> </p>
