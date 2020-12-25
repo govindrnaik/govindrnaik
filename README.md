@@ -68,7 +68,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center" ><img width ="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /><img width ="500" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /></p>
+<p align="center" ><img width ="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /><img width ="500" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /></p>
 <p align="left" >&nbsp;</p>
 
 
