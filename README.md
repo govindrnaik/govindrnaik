@@ -50,8 +50,6 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/> </a> </p>
 
 
-<br />
-<br />
 
 
 [website]: https://sites.google.com/viva-technology.org/govindnaik/home
@@ -68,9 +66,8 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<p align="left" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /></p>
-
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&layout=compact" alt="govindrnaik" /></p>
+<p align="left" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en" alt="govindrnaik" /></p>
 
 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
