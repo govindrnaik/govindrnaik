@@ -32,7 +32,7 @@
 [<img align="left" alt=" telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt=" whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
-***
+
 
 
 ## Languages and Tools:
@@ -71,7 +71,7 @@
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-***
+
 
 ## 📈 Github Stats
 
