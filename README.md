@@ -16,7 +16,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve puzzles and play piano
 
-
+bgcolor=”#800000"
 
 
 ### Connect with me:
