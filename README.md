@@ -63,7 +63,6 @@
 [medium]: https://medium.com/@govindrnaik.trk
 [telegram]: https://t.me/tughlak
 [whatsapp]: https://api.whatsapp.com/send/?phone=+918850922017&text=Hello%20found%20you%20from%20Github&app_absent=0
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
