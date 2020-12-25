@@ -16,6 +16,7 @@
 - ⚡ Fun fact: I love to solve puzzles and play piano
 
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="naikgovindr"><a class="LI-simple-link" href='https://in.linkedin.com/in/naikgovindr?trk=profile-badge'>GOVIND NAIK</a></div>
 
 ## Connect with me:
 
@@ -63,7 +64,7 @@
 [medium]: https://medium.com/@govindrnaik.trk
 [telegram]: https://t.me/tughlak
 [whatsapp]: https://api.whatsapp.com/send/?phone=+918850922017&text=Hello%20found%20you%20from%20Github&app_absent=0
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
