@@ -9,7 +9,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue&label=CONNECT&link=https://www.linkedin.com/in/naikgovindr)](https://www.linkedin.com/in/naikgovindr)
   
-## I'm a Son, Student, and EXTC Engineer!
+## I'm a Student, and EXTC Engineer!
 
 - 🌱 I’m currently learning everything <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px">
 - 👯 I’m looking to collaborate with other students interested in learning new
