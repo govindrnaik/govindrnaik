@@ -3,8 +3,8 @@
 <img  align="right" alt="gif"  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
  
 <h3 align="left">A passionate developer from India</h3>  
-![Twitter Follow](https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge)
 
+<p  align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=govindrnaik&label=Profile%20views&color=0e75b6&style=flat" alt="govindrnaik" /> </p>
 
