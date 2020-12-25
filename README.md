@@ -73,4 +73,4 @@
 
 <p style="background-color:black;" align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=govindrnaik" alt="govindrnaik" /></a> </p>
 
-<p bgcolor=”#800000" align="center" ><img width ="550" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
+<p style="background-color:#00FFFF" align="center" ><img width ="550" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&" alt="govindrnaik" /></p>
