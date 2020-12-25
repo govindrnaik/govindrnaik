@@ -63,7 +63,7 @@
 [facebook]: https://www.facebook.com/profile.php?id=100008485660272
 [medium]: https://medium.com/@govindrnaik.trk
 [telegram]: https://t.me/tughlak
-[whatsapp]: https://api.whatsapp.com/send/?phone=9757211888&text=Hello%20found%20you%20from%20Github&app_absent=0
+[whatsapp]: https://api.whatsapp.com/send/?phone=8850922017&text=Hello%20found%20you%20from%20Github&app_absent=0
 
 
 <!-- ### Blogs posts -->
