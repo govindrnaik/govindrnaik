@@ -89,12 +89,12 @@
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 <details>
-  <summary>📊 GitHub Profile Trophies</summary>
+  <summary>🏆 GitHub Profile Trophies</summary>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=govindrnaik&column=2&theme=darkhub&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA" alt="govindrnaik" /></a>
 </details>
 <details>
-  <summary>📊 GitHub Profile Streaks</summary>
+  <summary>🔥 GitHub Profile Streaks</summary>
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=highcontrast" alt="govindrnaik" />
 </a>
