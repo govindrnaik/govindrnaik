@@ -92,7 +92,7 @@
 <details>
   <summary>🔥 GitHub Profile Streaks</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=highcontrast" alt="govindrnaik" />
+  <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=chartreuse-dark" alt="govindrnaik" />
 </a>
 </details>
 
