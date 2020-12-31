@@ -74,7 +74,7 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="460" src="github-readme-stats.govindrnaik.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=00FFFF&icon_color=00FF00&text_color=ffffff&bg_color=000000" alt="govindrnaik" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="460" src="github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=00FFFF&icon_color=00FF00&text_color=ffffff&bg_color=000000" alt="govindrnaik" /></a>
 </details>
 
 <details> 
