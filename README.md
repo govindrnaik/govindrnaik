@@ -3,7 +3,7 @@
 <img  align="right" alt="gif"  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
 
 
-<h3 align="left">A passionate developer from India</h3>  
+<h3 align="left">A passionate developer from India</h3>  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px">
 <p  align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
 <img alt="GitHub followers" src="https://komarev.com/ghpvc/?username=govindrnaik&color=006400&label=VISITORS&logo=GitHub&style=flat-square">
 
@@ -11,7 +11,7 @@
   
 ## I'm a Student, and EXTC Engineer!
 
-- 🌱 I’m currently learning everything <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px">
+- 🌱 I’m currently learning AI & ML 
 - 👯 I’m looking to collaborate with other students interested in learning new
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve puzzles and play piano
