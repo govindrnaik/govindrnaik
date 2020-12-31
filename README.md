@@ -74,20 +74,20 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="460" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=00FFFF&icon_color=00FF00&text_color=ffffff&bg_color=000000" alt="govindrnaik" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="460" src="github-readme-stats.govindrnaik.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=00FFFF&icon_color=00FF00&text_color=ffffff&bg_color=000000" alt="govindrnaik" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&title_color=ffffff&icon_color=00FF00&text_color=00FFFF&bg_color=000000" alt="govindrnaik" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="350" src="https://github-readme-stats.govindrnaik.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&title_color=ffffff&icon_color=00FF00&text_color=00FFFF&bg_color=000000" alt="govindrnaik" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 <details>
   <summary>🏆 GitHub Profile Trophies</summary>
   <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-profile-trophy.vercel.app/?username=govindrnaik&column=2&theme=darkhub&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA" alt="govindrnaik" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img  src="https://github-readme-stats.govindrnaik.vercel.app/?username=govindrnaik&column=2&theme=darkhub&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA" alt="govindrnaik" /></a>
 </details>
 <details>
   <summary>🔥 GitHub Profile Streaks</summary>
@@ -99,5 +99,5 @@
 <details>
   <summary>📊 Wakatime Week Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="460" src="https://github-readme-stats.vercel.app/api/wakatime?username=govindrnaik" alt="govindrnaik" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="460" src="https://github-readme-stats.govindrnaik.vercel.app/api/wakatime?username=govindrnaik" alt="govindrnaik" /></a>
 </details>
