@@ -95,9 +95,3 @@
   <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=chartreuse-dark" alt="govindrnaik" />
 </a>
 </details>
-
-<details>
-  <summary>📊 Wakatime Week Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="460" src="https://github-readme-stats.vercel.app/api/wakatime?username=govindrnaik" alt="govindrnaik" /></a>
-</details>
