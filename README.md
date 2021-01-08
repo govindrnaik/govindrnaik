@@ -1,6 +1,6 @@
 ### Hi there, I'm [Govind Ratnakar Naik][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img  align="right" alt="gif" height = "250px"  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
+<img  align="right" alt="gif" height = "220px"  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
 
 
 <h3 align="left">A passionate developer from India <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"></h3>
