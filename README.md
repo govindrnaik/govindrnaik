@@ -28,6 +28,7 @@
 [<img align="left" alt=" medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt=" telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt=" whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" alt=" whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 
 </br>
@@ -63,6 +64,7 @@
 [medium]: https://medium.com/@govindrnaik.trk
 [telegram]: https://t.me/tughlak
 [whatsapp]: https://api.whatsapp.com/send/?phone=+918850922017&text=Hello%20found%20you%20from%20Github&app_absent=0
+[github]: https://api.whatsapp.com/send/?phone=+918850922017&text=Hello%20found%20you%20from%20Github&app_absent=0
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
