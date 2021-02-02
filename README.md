@@ -70,13 +70,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Audio Corrected: eYIC 2020-21 Emergency Wireless Communication Network for Disaster Management](https://www.youtube.com/watch?v=UI6MCAI6rSw)
-- [eYIC 2020-21: Emergency Wireless Communication Network for Disaster Management Presentation](https://www.youtube.com/watch?v=dd3OIeIdKIE)
-<!-- YOUTUBE:END -->
-
 
 ## 📈 Github Stats
 
