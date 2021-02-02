@@ -73,9 +73,10 @@
 
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->  
-<a href="https://www.youtube.com/v/UI6MCAI6rSw" target="_blank"> <img src="https://i2.ytimg.com/vi/UI6MCAI6rSw/hqdefault.jpg" alt="eYIC 2020-21 Emergency Wireless Communication Network for Disaster Management" width="200" height="130"/> </a> 
-
+<!-- YOUTUBE:START -->
+- [Audio Corrected: eYIC 2020-21 Emergency Wireless Communication Network for Disaster Management](https://www.youtube.com/watch?v=UI6MCAI6rSw)
+- [eYIC 2020-21: Emergency Wireless Communication Network for Disaster Management Presentation](https://www.youtube.com/watch?v=dd3OIeIdKIE)
+- [Life Expectancy using Matchine Learning](https://www.youtube.com/watch?v=fDX08hQ3Gcw)
 <!-- YOUTUBE:END -->
 
 
