@@ -70,6 +70,14 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+## 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<a href="https://www.youtube.com/v/UI6MCAI6rSw" target="_blank"> <img src="https://i2.ytimg.com/vi/UI6MCAI6rSw/hqdefault.jpg" alt="Emergency Wireless Communication Network" width="200" /> </a> 
+
+<!-- YOUTUBE:END -->
+
 
 ## 📈 Github Stats
 
