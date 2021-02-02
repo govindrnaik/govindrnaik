@@ -71,6 +71,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->  
+<a href="https://www.youtube.com/v/UI6MCAI6rSw" target="_blank"> <img src="https://i2.ytimg.com/vi/UI6MCAI6rSw/hqdefault.jpg" alt="eYIC 2020-21 Emergency Wireless Communication Network for Disaster Management" width="200" height="130"/> </a> 
+
+<!-- YOUTUBE:END -->
+
+
 ## 📈 Github Stats
 
 <details>
