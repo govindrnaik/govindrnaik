@@ -77,6 +77,7 @@
 <!-- YOUTUBE:START -->
 <a href="https://www.youtube.com/watch?v=UI6MCAI6rSw" target="_blank"> <img src="https://i2.ytimg.com/vi/UI6MCAI6rSw/hqdefault.jpg" alt="Emergency Wireless Communication Network for Disaster Management" width="200" height="130"/> </a> 
 <a href="https://www.youtube.com/watch?v=fDX08hQ3Gcw" target="_blank"> <img src="https://i3.ytimg.com/vi/fDX08hQ3Gcw/hqdefault.jpg" alt="Life Expectancy using Matchine Learning" width="200" height="130"/> </a> 
+<a href="https://www.youtube.com/watch?v=wNOZP22RSwI" target="_blank"> <img src="https://i4.ytimg.com/vi/wNOZP22RSwI/hqdefault.jpg" alt="Automated E-waste Disposal using Machine Learning (E- Scrapper)" width="200" height="130"/> </a> 
 <!-- YOUTUBE:END -->
 
 
