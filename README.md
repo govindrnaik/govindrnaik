@@ -71,7 +71,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/govindrnaik.jr)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/dv82gzmcf0nex0ppuxin9s016)
 
 ## 📺 Latest Project Videos
 
