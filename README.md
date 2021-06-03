@@ -71,7 +71,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/govindrnaik.jr)
+[![Spotify](https://govindrnaik.vercel.app/api/spotify)](https://open.spotify.com/user/govindrnaik.jr)
 
 
 ## 📺 Latest Project Videos
