@@ -28,7 +28,8 @@
 [<img align="left" alt=" medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt=" telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt=" whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt=" whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt=" github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt=" mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 
 
 </br>
@@ -66,6 +67,7 @@
 [telegram]: https://t.me/tughlak
 [whatsapp]: https://api.whatsapp.com/send/?phone=+918850922017&text=Hello%20found%20you%20from%20Github&app_absent=0
 [github]: https://github.com/govindrnaik
+[mail]: mailto:govindrnaik.trk@gmail.com
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
