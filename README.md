@@ -19,17 +19,17 @@
 
 ## 🤝Connect with me:
 
-[<img align="left" alt="gov.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="witter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt=" facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt=" medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt=" telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt=" whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
-[<img align="left" alt=" github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt=" mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+[<img align="left" alt="gov.com" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/internet-unscreen.gif" />][website]
+[<img align="left" alt=" YouTube" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/youtube.gif" />][youtube]
+[<img align="left" alt="witter" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/twitter-circled-unscreen.gif" />][twitter]
+[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/linkedin-circled-unscreen.gif" />][linkedin]
+[<img align="left" alt="Instagram" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/instagram-unscreen.gif" />][instagram]
+[<img align="left" alt=" facebook" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/facebook-circled-unscreen.gif" />][facebook]
+[<img align="left" alt=" medium" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/medium-monogram.gif" />][medium]
+[<img align="left" alt=" telegram" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/telegram-app-unscreen.gif" />][telegram]
+[<img align="left" alt=" whatsapp" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/whatsapp-unscreen.gif" />][whatsapp]
+[<img align="left" alt=" github" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/github-unscreen.gif" />][github]
+[<img align="left" alt=" mail" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/gmail-unscreen.gif" />][mail]
 
 
 </br>
