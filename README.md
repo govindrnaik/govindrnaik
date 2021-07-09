@@ -21,14 +21,14 @@
 
 [<img align="left" alt="gov.com" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/internet-unscreen.gif" />][website]
 [<img align="left" alt=" YouTube" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/youtube.gif" />][youtube]
-[<img align="left" alt="witter" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/twitter.gif" />][twitter]
+[<img align="left" alt="witter" width="35px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/twitter.gif" />][twitter]
 [<img align="left" alt="LinkedIn" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/linkedin2.gif" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/instagram-unscreen.gif" />][instagram]
 [<img align="left" alt=" facebook" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/facebook-circled-unscreen.gif" />][facebook]
 [<img align="left" alt=" medium" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/medium-monogram.gif" />][medium]
 [<img align="left" alt=" telegram" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/telegram-app-unscreen.gif" />][telegram]
 [<img align="left" alt=" whatsapp" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/whatsapp-unscreen.gif" />][whatsapp]
-[<img align="left" alt=" github" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/github-unscreen.gif" />][github]
+[<img align="left" alt=" github" width="35px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/github-unscreen.gif" />][github]
 [<img align="left" alt=" mail" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/mail.gif" />][mail]
 
 
