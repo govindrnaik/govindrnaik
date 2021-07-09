@@ -61,7 +61,7 @@
 [twitter]: https://twitter.com/NaikGovindjr
 [youtube]: https://www.youtube.com/channel/UCilYVcxFZAYJ50xfQ8uVfxw
 [instagram]: https://www.instagram.com/naikjr.govind
-[linkedin]: https://www.linkedin.com/in/naikgovindr
+[linkedin]: https://www.linkedin.com/in/govindrnaik
 [facebook]: https://www.facebook.com/profile.php?id=100008485660272
 [medium]: https://medium.com/@govindrnaik.trk
 [telegram]: https://t.me/tughlak
