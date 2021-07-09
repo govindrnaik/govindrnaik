@@ -26,7 +26,7 @@
 [<img align="left" alt="Instagram" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/instagram-unscreen.gif" />][instagram]
 [<img align="left" alt=" facebook" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/facebook-circled-unscreen.gif" />][facebook]
 [<img align="left" alt=" medium" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/medium-monogram.gif" />][medium]
-[<img align="left" alt=" telegram" width="35px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/telegram3.gif" />][telegram]
+[<img align="left" alt=" telegram" width="35px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/telegram4.gif" />][telegram]
 [<img align="left" alt=" whatsapp" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/whatsapp-unscreen.gif" />][whatsapp]
 [<img align="left" alt=" github" width="35px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/github-unscreen.gif" />][github]
 [<img align="left" alt=" mail" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/mail.gif" />][mail]
