@@ -29,7 +29,7 @@
 [<img align="left" alt=" telegram" width="35px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/telegram.gif" />][telegram]
 [<img align="left" alt=" whatsapp" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/whatsapp-unscreen.gif" />][whatsapp]
 [<img align="left" alt=" github" width="35px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/github-unscreen.gif" />][github]
-[<img align="left" alt=" mail" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/gmail.gif" />][mail]
+[<img align="left" alt=" mail" width="39px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/gmail.gif" />][mail]
 
 
 </br>
