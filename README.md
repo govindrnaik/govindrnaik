@@ -110,7 +110,6 @@
   <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=chartreuse-dark" alt="govindrnaik" />
 </a>
 </details>
-<br/>
 ## What I am listening ?
 [![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/govindrnaik.jr)
 
