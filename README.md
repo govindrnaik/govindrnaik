@@ -107,8 +107,8 @@
 <details>
   <summary>🔥 GitHub Profile Streaks</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=chartreuse-dark&background=00000000&dates=00FF00&sideLabels=0e6b0e&fire=fd5217&currStreakLabel=d6bc2f&currStreakNum=fd5217" alt="govindrnaik" />
-</a>
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=2A851D&currStreakLabel=BEC01A&currStreakNum=D49308&ring=FF0000&sideLabels=762172CF&dates=308D8B)](https://git.io/streak-stats)
 </details>
       
 ## What I am listening ?
