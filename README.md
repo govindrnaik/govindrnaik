@@ -89,12 +89,12 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=#2b5329&icon_color=#2b5329&text_color=#00FF00&bg_color=00ff0000" alt="govindrnaik" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=#2b5329&icon_color=#fd5217&text_color=#00FF00&bg_color=00ff0000" alt="govindrnaik" /></p>
 </details> 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&title_color=#2b5329&icon_color=#2b5329&text_color=#00FF00&bg_color=#00ff0000" alt="govindrnaik" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&title_color=#2b5329&icon_color=#fd5217&text_color=#00FF00&bg_color=#00ff0000" alt="govindrnaik" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -108,7 +108,7 @@
   <summary>🔥 GitHub Profile Streaks</summary>
   <br/>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=fd5217&currStreakLabel=BEC01A&currStreakNum=D49308&ring=FF0000&sideLabels=2A851D&dates=308D8B)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=fd5217&currStreakLabel=BEC01A&currStreakNum=fd5217&ring=FF0000&sideLabels=2A851D&dates=308D8B)](https://git.io/streak-stats)
 </details>
       
 ## What I am listening ?
