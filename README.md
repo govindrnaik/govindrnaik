@@ -108,7 +108,7 @@
   <summary>🔥 GitHub Profile Streaks</summary>
   <br/>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=2A851D&currStreakLabel=BEC01A&currStreakNum=D49308&ring=FF0000&sideLabels=762172CF&dates=308D8B)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=fd5217&currStreakLabel=BEC01A&currStreakNum=D49308&ring=FF0000&sideLabels=2A851D&dates=308D8B)](https://git.io/streak-stats)
 </details>
       
 ## What I am listening ?
