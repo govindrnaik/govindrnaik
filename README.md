@@ -89,12 +89,12 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=00FFFF&icon_color=00FF00&text_color=ffffff&bg_color=00000000" alt="govindrnaik" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=#2b5329&icon_color=#2b5329&text_color=#00FF00&bg_color=#00000000" alt="govindrnaik" /></p>
 </details> 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&title_color=ffffff&icon_color=00FF00&text_color=00FFFF&bg_color=00000000" alt="govindrnaik" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&title_color=#2b5329&icon_color=#2b5329&text_color=#00FF00&bg_color=#00000000" alt="govindrnaik" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -107,11 +107,12 @@
 <details>
   <summary>🔥 GitHub Profile Streaks</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=chartreuse-dark" alt="govindrnaik" />
+  <a href="https://github.com/anuraghazra/github-readme-streak-stats"> <img align="left" width ="500" src="https://github-readme-streak-stats.herokuapp.com/?user=govindrnaik&theme=chartreuse-dark&background=00000000&dates=00FF00&sideLabels=0e6b0e&fire=fd5217&currStreakLabel=d6bc2f&currStreakNum=fd5217" alt="govindrnaik" />
 </a>
 </details>
 
 ## What I am listening ?
 &nbsp;[![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/dv82gzmcf0nex0ppuxin9s016)
+
 
 
