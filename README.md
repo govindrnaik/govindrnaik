@@ -82,8 +82,7 @@
 <a href="https://www.youtube.com/watch?v=fDX08hQ3Gcw" target="_blank"> <img src="https://i3.ytimg.com/vi/fDX08hQ3Gcw/hqdefault.jpg" alt="Life Expectancy using Matchine Learning" width="200" height="130"/> </a> 
 <a href="https://www.youtube.com/watch?v=wNOZP22RSwI" target="_blank"> <img src="https://i4.ytimg.com/vi/wNOZP22RSwI/hqdefault.jpg" alt="Automated E-waste Disposal using Machine Learning (E- Scrapper)" width="200" height="130"/> </a> 
 <!-- YOUTUBE:END -->
-
-
+    
 ## 📈 Github Stats
 
 <details>
@@ -110,7 +109,10 @@
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=fd5217&currStreakLabel=BEC01A&currStreakNum=fd5217&ring=FF0000&sideLabels=2A851D&dates=308D8B)](https://git.io/streak-stats)
 </details>
-      
+
+
+  
 ## What I am listening ?
 &nbsp;[![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/dv82gzmcf0nex0ppuxin9s016)
 
+  
