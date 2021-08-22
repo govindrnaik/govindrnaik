@@ -111,5 +111,5 @@
 </a>
 </details>
 ## What I am listening ?
-[![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/govindrnaik.jr)
+&nbsp; <br> [![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/govindrnaik.jr)
 
