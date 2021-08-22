@@ -17,6 +17,7 @@
 - ⚡ Fun fact: I love to solve puzzles and play piano
 
 
+
 ## 🤝Connect with me:
 
 [<img align="left" alt="gov.com" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/internet-unscreen.gif" />][website]
@@ -88,12 +89,18 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&locale=en&title_color=#2b5329&icon_color=#fd5217&text_color=#00FF00&bg_color=ffffff00" alt="govindrnaik" /></p>
+  
+  ![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&theme=vision-friendly-dark&bg_color=ffffff00)
+
+  
 </details> 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width ="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=govindrnaik&show_icons=true&locale=en&title_color=#2b5329&icon_color=#fd5217&text_color=#00FF00&bg_color=#ffffff00" alt="govindrnaik" /></a>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govindrnaik&theme=vision-friendly-dark&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
+
+  
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
