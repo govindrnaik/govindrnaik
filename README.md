@@ -90,7 +90,7 @@
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
   
-  ![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindrnaik&show_icons=true&theme=vision-friendly-dark&bg_color=ffffff00)
+  ![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindrnaik&text_color=00ff00&show_icons=true&theme=vision-friendly-dark&bg_color=ffffff00)
 
   
 </details> 
@@ -98,7 +98,7 @@
   <summary>💻 Most used languages</summary>
   <br/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govindrnaik&theme=vision-friendly-dark&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=govindrnaik&theme=vision-friendly-dark&text_color=00ff00&bg_color=ffffff00)](https://github.com/anuraghazra/github-readme-stats)
 
   
   <br/>
