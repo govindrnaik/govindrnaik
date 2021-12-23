@@ -12,7 +12,7 @@
 ## I'm a Student, and EXTC Engineer!
 
 - 🌱 I’m currently learning AI & ML 
-- 👯 I’m looking to collaborate with other students interested in learning new
+- 👯 I’m looking to collaborate with other who are interested in learning new technologies
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve puzzles and play piano
 
