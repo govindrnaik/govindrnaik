@@ -1,10 +1,4 @@
-### Red text title {#identifier .red}
-
-<style>
-.red {color: red}
-</style>
-<p class="red">red text</p>
-###### Red text title {#identifier .red}
+  <link rel="stylesheet" href="https://github.com/govindrnaik/govindrnaik/blob/master/style.css">
 
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi there, I'm [Govind Ratnakar Naik][website] 
 <h1>Govind Naik</h1>
