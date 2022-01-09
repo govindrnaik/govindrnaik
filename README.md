@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning AI & ML 
 - 👯 I’m looking to collaborate with other who are interested in learning new skills
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to solve puzzles and play piano
+- ⚡ Fun fact: I love to solve puzzles and play music
 
 
 
