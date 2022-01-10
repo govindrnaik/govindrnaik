@@ -93,7 +93,7 @@
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
   
-  ![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindrnaik&text_color=00ff00&show_icons=true&theme=vision-friendly-dark&bg_color=ffffff00)
+  ![Govind's GitHub stats](https://github-readme-stats.vercel.app/api?username=govindrnaik&text_color=006400&show_icons=true&theme=vision-friendly-dark&bg_color=ffffff00)
 
   
 </details> 
