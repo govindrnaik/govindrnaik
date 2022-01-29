@@ -119,7 +119,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=fd5217&currStreakLabel=BEC01A&currStreakNum=fd5217&ring=FF0000&sideLabels=2A851D&dates=308D8B)](https://git.io/streak-stats)
 </details>
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=govindrnaik&theme=react-dark)  
   
 ## What I am listening ?
 &nbsp;[![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/dv82gzmcf0nex0ppuxin9s016)
