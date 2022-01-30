@@ -4,8 +4,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi there, I'm [Govind Ratnakar Naik][website] 
 <img  align="right" alt="gif" height = "230px"  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=A+passionate+developer+from+India)](https://git.io/typing-svg)
-
+##A passionate developer from India
 <p  align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
 <img alt="GitHub followers" src="https://komarev.com/ghpvc/?username=govindrnaik&color=006400&label=VISITORS&logo=GitHub&style=flat-square">
 
@@ -17,7 +16,6 @@
 - 👯 I’m looking to collaborate with other who are interested in learning new skills
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve puzzles and play music
-
 
 
 ## 🤝Connect with me:
