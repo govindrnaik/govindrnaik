@@ -122,4 +122,6 @@
 ## What I am listening ?
 &nbsp;[![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/dv82gzmcf0nex0ppuxin9s016)
 
-  
+![gitartwork](gitartwork.svg)
+
+
