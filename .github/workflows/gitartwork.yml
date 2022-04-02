@@ -1,4 +1,4 @@
-name: gitartwork from a contribution graph
+ name: gitartwork from a contribution graph
  on: 
    push:
    schedule:
@@ -15,5 +15,5 @@ name: gitartwork from a contribution graph
             # Use this username's contribution graph  
             user_name: govindrnaik
             # Text on contribution graph 
-            text: WELCOME
+            text: Welcome
        - uses: jasineri/simple-push-action@v1
