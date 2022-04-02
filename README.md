@@ -124,5 +124,5 @@
 
 ![gitartwork](gitartwork.svg)
 
-![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg)
 
