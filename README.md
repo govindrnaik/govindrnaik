@@ -116,7 +116,8 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=fd5217&currStreakLabel=BEC01A&currStreakNum=fd5217&ring=FF0000&sideLabels=2A851D&dates=308D8B)](https://git.io/streak-stats)
 
 
-  
+  ![profile-summary-cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=govindrnaik&theme=vue)
+
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="govindrnaik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=govindrnaik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
