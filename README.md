@@ -87,8 +87,8 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  
-![Govind's GitHub profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=govindrnaik&theme=dark)
+
+![Govind's GitHub profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=govindrnaik&theme=github_dark)
 
   <br/>
 
