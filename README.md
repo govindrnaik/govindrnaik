@@ -105,7 +105,7 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 <details>
   <summary>🏆 GitHub Profile Trophies</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindrnaik&column=4&theme=juicyfresh&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA&no-bg=true" alt="govindrnaik" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindrnaik&column=4&theme=juicyfresh&margin-w=16&margin-h=16&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA&no-bg=true" alt="govindrnaik" /></a> </p>
  
 </details>
 
