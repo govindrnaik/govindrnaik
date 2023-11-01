@@ -124,3 +124,5 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 
 ![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.gif)
+
