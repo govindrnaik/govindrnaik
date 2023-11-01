@@ -123,6 +123,3 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 <!-- ![gitartwork](gitartwork.svg) -->
 
 ![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg)
-
-![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.gif)
-
