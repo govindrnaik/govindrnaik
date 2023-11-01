@@ -105,12 +105,13 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 <details>
   <summary>🏆 GitHub Profile Trophies</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindrnaik&column=3&theme=juicyfresh&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA&no-bg=true" alt="govindrnaik" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindrnaik&column=4&theme=juicyfresh&margin-w=15&margin-h=15&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA&no-bg=true" alt="govindrnaik" /></a> </p>
  
 </details>
 
   <br/>
   <summary>🔥 GitHub Profile Streaks</summary>
+  <br/>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=fd5217&currStreakLabel=BEC01A&currStreakNum=fd5217&ring=FF0000&sideLabels=2A851D&dates=308D8B)](https://git.io/streak-stats)
 
