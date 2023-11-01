@@ -118,9 +118,9 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=govindrnaik&theme=react-dark)   -->
   
 <!-- ## What I am listening ?
-&nbsp;[![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/dv82gzmcf0nex0ppuxin9s016)
+&nbsp;[![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/dv82gzmcf0nex0ppuxin9s016) -->
 
-![gitartwork](gitartwork.svg) -->
+<!-- ![gitartwork](gitartwork.svg) -->
 
-![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg) -->
 
