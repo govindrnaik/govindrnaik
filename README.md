@@ -68,7 +68,7 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 [github]: https://github.com/govindrnaik
 [mail]: mailto:govindrnaik.trk@gmail.com
 
-<!-- ### Blogs posts -->
+## 📚 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [My Generative AI Journey with Google Cloud: From Text to Multimodal Applications](https://medium.com/@govindrnaik.trk/my-generative-ai-journey-with-google-cloud-from-text-to-multimodal-applications-916ca6813c0f?source=rss-5c14914fd61c------2)
 - [Navigating the World of Generative AI: My Experience with Gemini and Vertex AI](https://medium.com/@govindrnaik.trk/navigating-the-world-of-generative-ai-my-experience-with-gemini-and-vertex-ai-bcaf4547f1c8?source=rss-5c14914fd61c------2)
