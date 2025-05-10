@@ -70,6 +70,10 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
+- [My Generative AI Journey with Google Cloud: From Text to Multimodal Applications](https://medium.com/@govindrnaik.trk/my-generative-ai-journey-with-google-cloud-from-text-to-multimodal-applications-916ca6813c0f?source=rss-5c14914fd61c------2)
+- [Navigating the World of Generative AI: My Experience with Gemini and Vertex AI](https://medium.com/@govindrnaik.trk/navigating-the-world-of-generative-ai-my-experience-with-gemini-and-vertex-ai-bcaf4547f1c8?source=rss-5c14914fd61c------2)
+- [Bridging Text and Imagery: My Journey with Gemini and Imagen](https://medium.com/@govindrnaik.trk/bridging-text-and-imagery-my-journey-with-gemini-and-imagen-43905de5fe84?source=rss-5c14914fd61c------2)
+- [Building Generative AI Applications with Gemini and Streamlit: A Hands-On Journey](https://medium.com/@govindrnaik.trk/building-generative-ai-applications-with-gemini-and-streamlit-a-hands-on-journey-98e879a2fdd7?source=rss-5c14914fd61c------2)
 <!-- BLOG-POST-LIST:END -->
 
 
