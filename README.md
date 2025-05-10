@@ -133,10 +133,9 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="govindrnaik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=govindrnaik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <!-- <h3>⚡ Recent GitHub Activity</h3>
+ <h3>⚡ Recent GitHub Activity</h3>
 
   <p><a href="govindrnaik.github.io"><img src="https://github.com/govindrnaik/govindrnaik/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@govindrnaik&#39;s Web govindrnaik"></a></p>
- -->
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=govindrnaik&theme=react-dark)   -->
@@ -146,5 +145,5 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 
 <!-- ![gitartwork](gitartwork.svg) -->
 
-<!-- ![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg)
 
