@@ -144,6 +144,6 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 &nbsp;[![Spotify](https://spotify-song-play-pied.vercel.app/api/spotify)](https://open.spotify.com/user/dv82gzmcf0nex0ppuxin9s016) -->
 
 <!-- ![gitartwork](gitartwork.svg) -->
-
-![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg)
+<!--
+![snake gif](https://github.com/govindrnaik/govindrnaik/blob/output/github-contribution-grid-snake.svg) -->
 
