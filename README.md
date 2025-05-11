@@ -121,21 +121,16 @@ Hi there, I'm [Govind Ratnakar Naik][website]
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govindrnaik&column=6&theme=juicyfresh&margin-w=16&margin-h=16&rank=S,AAA,A,B,C,SECRET,SSS,SS,AA&no-bg=true" alt="govindrnaik" /></a> </p>
  
 </details>
-
-  <br/>
-  <summary>🔥 GitHub Profile Streaks</summary>
-  <br/>
+🔥 GitHub Profile Streaks
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=govindrnaik&theme=highcontrast&background=DD272700&stroke=27225F&border=8F8F8F&fire=FFD107&sideNums=fd5217&currStreakLabel=BEC01A&currStreakNum=fd5217&ring=FF0000&sideLabels=2A851D&dates=308D8B)](https://git.io/streak-stats)
 
 
 
+ <h3>⚡ Recent GitHub Activity</h3>
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="govindrnaik's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=govindrnaik&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
- <h3>⚡ Recent GitHub Activity</h3>
-
-  <p><a href="govindrnaik.github.io"><img src="https://github.com/govindrnaik/govindrnaik/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@govindrnaik&#39;s Web govindrnaik"></a></p>
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=govindrnaik&theme=react-dark)   -->
