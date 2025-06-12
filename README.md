@@ -86,9 +86,9 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 <!-- YOUTUBE:START -->
 - [SC mini project](https://www.youtube.com/watch?v=qk8u6EWCH-c)
 - [BIT SREAM-THE RESCUE MESSENGER](https://www.youtube.com/watch?v=maHhuf8rKHo)
-- [Project R &amp; D](https://www.youtube.com/watch?v=T_hUcdpCnDA)
+- [Project R &amp; D](https://www.youtube.com/shorts/T_hUcdpCnDA)
 - [LoRa ECS](https://www.youtube.com/watch?v=IA05PXFPhJQ)
-- [got silver 🥈 at e-Yantra innovation challenge](https://www.youtube.com/watch?v=fgOcqE1Aa8Y)
+- [got silver 🥈 at e-Yantra innovation challenge](https://www.youtube.com/shorts/fgOcqE1Aa8Y)
 <!-- YOUTUBE:END -->
     
 ## 📈 Github Stats
