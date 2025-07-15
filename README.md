@@ -7,7 +7,7 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 <p  align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
 <img alt="GitHub followers" src="https://komarev.com/ghpvc/?username=govindrnaik&color=006400&label=VISITORS&logo=GitHub&style=flat-square">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue&label=CONNECT&link=https://www.linkedin.com/in/naikgovindr)](https://www.linkedin.com/in/naikgovindr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue&label=CONNECT&link=https://www.linkedin.com/in/govindrnaik)](https://www.linkedin.com/in/naikgovindr)
   
 ## I'm a Student, and EXTC Engineer! 
 
