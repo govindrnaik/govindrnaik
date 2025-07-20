@@ -4,7 +4,7 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 
 ### A passionate developer from India <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25px"/>
 
-<p  align="left"> <a href="https://twitter.com/naikgovindjr" target="blank"><img src="https://img.shields.io/twitter/follow/NaikGovindjr?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="naikgovindjr" /></a> </p>
+<p  align="left"> <a href="https://twitter.com/govindrnaik" target="blank"><img src="https://img.shields.io/twitter/follow/govindrnaik?color=1DA1F2&label=follow&logo=twitter&style=for-the-badge" alt="govindrnaik" /></a> </p>
 <img alt="GitHub followers" src="https://komarev.com/ghpvc/?username=govindrnaik&color=006400&label=VISITORS&logo=GitHub&style=flat-square">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=blue&label=CONNECT&link=https://www.linkedin.com/in/govindrnaik)](https://www.linkedin.com/in/govindrnaik)
@@ -57,7 +57,7 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 
 
 [website]: https://sites.google.com/viva-technology.org/govindnaik/home
-[twitter]: https://twitter.com/NaikGovindjr
+[twitter]: https://twitter.com/govindrnaik
 [youtube]: https://www.youtube.com/channel/UCilYVcxFZAYJ50xfQ8uVfxw
 [instagram]: https://www.instagram.com/naikjr.govind
 [linkedin]: https://www.linkedin.com/in/govindrnaik
