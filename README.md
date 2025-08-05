@@ -19,17 +19,19 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 
 ## 🤝Connect with me:
 
-[<img align="left" alt="gov.com" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/internet-unscreen.gif" />][website]
-[<img align="left" alt=" YouTube" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/youtube.gif" />][youtube]
-[<img align="left" alt="twitter" width="33px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/twitter.gif"/>][twitter]
-[<img align="left" alt="LinkedIn" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/linkedin2.gif" />][linkedin]
-[<img align="left" alt="Instagram" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/instagram-unscreen.gif" />][instagram]
-[<img align="left" alt=" facebook" height="30px" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/facebook.gif" />][facebook]
-[<img align="left" alt=" medium" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/medium-monogram.gif" />][medium]
-[<img align="left" alt=" telegram" height="30px" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/telegram.gif" />][telegram]
-[<img align="left" alt=" whatsapp" width="30px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/whatsapp-unscreen.gif" />][whatsapp]
-[<img align="left" alt=" mail" width="39px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/mail.gif" />][mail]
-[<img align="left" alt=" github" width="35px" src="https://github.com/govindrnaik/govindrnaik/blob/master/Profile%20Icons/github-unscreen.gif" />][github]
+<p align="center">
+  <a href="https://sites.google.com/viva-technology.org/govindnaik/home" target="_blank"><img align="center" alt="gov.com" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/internet-unscreen.gif" /></a> &nbsp;&nbsp;
+  <a href="https://www.youtube.com/channel/UCilYVcxFZAYJ50xfQ8uVfxw" target="_blank"><img align="center" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/youtube.gif" /></a> &nbsp;&nbsp;
+  <a href="https://twitter.com/govindrnaik" target="_blank"><img align="center" alt="twitter" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/twitter.gif"/></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/govindrnaik" target="_blank"><img align="center" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/linkedin2.gif" /></a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/naikjr.govind" target="_blank"><img align="center" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/instagram-unscreen.gif" /></a> &nbsp;&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100008485660272" target="_blank"><img align="center" alt="facebook" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/facebook.gif" /></a> &nbsp;&nbsp;
+  <a href="https://medium.com/@govindrnaik.trk" target="_blank"><img align="center" alt="medium" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/medium-monogram.gif" /></a> &nbsp;&nbsp;
+  <a href="https://t.me/tughlak" target="_blank"><img align="center" alt="telegram" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/telegram.gif" /></a> &nbsp;&nbsp;
+  <a href="https://api.whatsapp.com/send/?phone=+918850922017&text=Hello%20found%20you%20from%20Github&app_absent=0" target="_blank"><img align="center" alt="whatsapp" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/whatsapp-unscreen.gif" /></a> &nbsp;&nbsp;
+  <a href="mailto:govindrnaik.trk@gmail.com" target="_blank"><img align="center" alt="mail" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/mail.gif" /></a> &nbsp;&nbsp;
+  <a href="https://github.com/govindrnaik" target="_blank"><img align="center" alt="github" width="30px" src="https://raw.githubusercontent.com/govindrnaik/govindrnaik/master/Profile%20Icons/github-unscreen.gif" /></a> &nbsp;&nbsp;
+</p>
 
 
 </br>
@@ -37,22 +39,24 @@ Hi there, I'm [Govind Ratnakar Naik][website]
 ## 🛠️ Languages and Tools:
 
 
-<p align="left"> 
-<a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/> </a> 
-<a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="Raspberry Pi" width="30" height="30"/> </a>    
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="40" height="30"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> 
-<a href="https://lab.github.com/githubtraining/introduction-to-github" target="_blank"> <img src="https://github.com/govindrnaik/govindrnaik/blob/master/github%20logo.png" alt="gcp" width="30" height="30"/> </a> 
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-<a href="https://www.processing.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1617169" alt="processing" width="30" height="30"/> </a> </p>
+<p align="center">
+  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="30" height="30"/> </a>
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" alt="Raspberry Pi" width="30" height="30"/> </a>
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="40" height="30"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a>
+  <a href="https://github.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/> </a>
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="30" height="30"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
+  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="30" height="30"/> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+  <a href="https://www.processing.org" target="_blank"> <img src="https://avatars.githubusercontent.com/u/1617169" alt="processing" width="30" height="30"/> </a>
+</p>
 
 
 
